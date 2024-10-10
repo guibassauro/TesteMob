@@ -10,7 +10,7 @@ Esta é uma API que contém apenas testes da API governamental VIA CEP, ela real
 - REST Assured
 
 ## Pré-requisitos para executar ⚙️
-- Java 21 ou superior instalado
+- Java 11 ou superior instalado
 - Maven instalado
 
 ## Instalação 📩
@@ -30,4 +30,4 @@ cd ViaCepApi
 ## Autores ✒️
 - Guilherme A. Barbian
 
-##
+## Aoba
